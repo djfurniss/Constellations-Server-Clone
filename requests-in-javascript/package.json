@@ -1,15 +1,15 @@
 {
-  "name": "starter",
+  "name": "requests-in-javascript",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "requests.js",
   "scripts": {
-    "start": "json-server --watch --port=5001 db.json"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "json-server": "0.16.1"
+    "axios": "^0.27.2"
   }
 }
