@@ -1,6 +1,6 @@
 const axios = require("axios");
 
-// const url = "http://localhost:5000/constellations";
+// const url = "http://localhost:5001/constellations";
 
 // function getConstNames() {
 //     axios
@@ -21,7 +21,7 @@ const axios = require("axios");
 // getConstNames()
 
 
-const BASE_URL = "http://localhost:5000";
+const BASE_URL = "http://localhost:5001";
 
 Promise.all([
   axios.get(`${BASE_URL}/constellations/UEUrlfX`),
