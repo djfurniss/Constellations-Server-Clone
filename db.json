@@ -97,6 +97,13 @@
       "meaning": "Sails",
       "starsWithPlanets": 7,
       "quadrant": "SQ2"
+    },
+    {
+      "name": "Post",
+      "meaning": "Malone",
+      "starsWithPlanets": 3,
+      "quadrant": "SQ1",
+      "id": "twn0mU8"
     }
   ]
 }
